@@ -129,7 +129,7 @@ I built XLeRobot as a personal hobby to instantiate my research theory, also to 
 
 ## Citation
 
-If you want, you can cite this work with:
+XLeRobot is fully opensource and nonprofit, please cite to support the authors if you are using XLeRobot in your research:
 
 ```bibtex
 @misc{wang2025xlerobot,
